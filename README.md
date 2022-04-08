@@ -4,7 +4,7 @@ Fix all the things, drink all the juice!
 ## Donate
 CashApp: $yahooadmin 
 
-Ethereum: 0x3509f7bd9557f8a9b793759b3e3bfa2cd505ae31
+Ethereum: 0xBf35D0994Aa944C22BDba2Fd019dd1fac55DEf5c
 
 RavenCoin: RBTmX8cFrhBZ4RDLjZSqDwA79krQJAupCY
 
