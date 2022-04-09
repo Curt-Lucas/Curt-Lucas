@@ -1,7 +1,7 @@
 # Curt Lucas
 Fix all the things, drink all the juice!
 
-Will code for food!
+**Will code for food!**
 
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
