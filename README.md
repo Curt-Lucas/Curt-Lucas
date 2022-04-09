@@ -3,6 +3,8 @@ Fix all the things, drink all the juice!
 
 **Will code for food!**
 
+AMD Ryzen5, 32GB, MSI NVIDIA GeForce GTX 1660 SUPER
+
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
 
