@@ -1,4 +1,4 @@
-# Curt Lucas
+# Curt Lucas, Full Stack Developer
 Fix all the things, drink all the juice!
 
 **Will code for food!**
