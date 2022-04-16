@@ -5,6 +5,8 @@ Fix all the things, drink all the juice!
 
 AMD Ryzen5, 32GB, MSI NVIDIA GeForce GTX 1660 SUPER
 
+S21 ULTRA
+
 ## Don't Forget to Donate
 CashApp: $yahooadmin 
 
