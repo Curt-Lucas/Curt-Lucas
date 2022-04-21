@@ -1,6 +1,8 @@
 # Will code for food!
 Fix all the things, drink all the juice!
 
+Visit http://hacker.jp.net/
+
 ## Flex
 Aorus Gigabyte, AMD Ryzen5, 32GB DDR5, 2x1TB SSD 1x250GB SSD, MSI NVIDIA GeForce GTX 1660 SUPER
 
