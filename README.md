@@ -8,7 +8,7 @@ My linktree https://linktr.ee/admin_login.php
 вся твоя база моя
 
 ## Flex
-Aorus Gigabyte, AMD Ryzen5, 32GB DDR5, 2x1TB 1x250GB SSD, MSI NVIDIA GeForce GTX 1660 SUPER 6GB
+Aorus Gigabyte, AMD Ryzen5, 32GB DDR5, 2x1TB 1x250GB SSD, MSI NVIDIA GeForce GTX 1660 SUPER 6GB (15MH/s)
 
 S21 ULTRA 5G Unlimited
 
