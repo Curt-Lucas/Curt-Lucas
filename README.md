@@ -12,7 +12,7 @@ Aorus Gigabyte, AMD Ryzen5, 32GB DDR5, 2x1TB 1x250GB SSD, MSI NVIDIA GeForce GTX
 
 S21 ULTRA 5G Unlimited
 
-## Don't Forget to Donate
+## Forget
 CashApp: $yahooadmin 
 
 Ethereum: 0xBf35D0994Aa944C22BDba2Fd019dd1fac55DEf5c
