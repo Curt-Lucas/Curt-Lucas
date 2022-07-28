@@ -3,6 +3,8 @@ Fix all the things, drink all the juice!
 
 Visit https://hacker.jp.net/ for security related news.
 
+Crypto Kittens NFT Collection https://opensea.io/collection/crypto-kittens-2022
+
 My linktree https://linktr.ee/admin_login.php
 
 
