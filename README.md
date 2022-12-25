@@ -96,9 +96,11 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 
-[https://bigcointalk.org/viewtopic.php?p=8](Discord Price Bot)
+[Discord Price Bot](https://bigcointalk.org/viewtopic.php?p=8)
 
-https://bigcointalk.org/
+[btc-pki-bruteforce (Wallet Bruteforcer)](https://bigcointalk.org/viewtopic.php?t=7)
+
+[SIGINT](https://veriz0wn.com/sigint)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
