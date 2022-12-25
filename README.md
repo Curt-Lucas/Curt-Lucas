@@ -1,7 +1,9 @@
+<div align="center">
 https://bigcointalk.org/
 
 https://veriz0wn.com/
-<table><tr>
+  
+<table width="100%"><tr>
 <td valign="top" width="33%">
   
 ### Frontend  
@@ -28,8 +30,10 @@ https://veriz0wn.com/
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+  </br>
 </div>
 </td>
-</tr></table>  
+</tr></table>
+</div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Curt-Lucas&show_icons=true&count_private=true&hide_border=true" align="center" />
