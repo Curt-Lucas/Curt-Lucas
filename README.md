@@ -1,8 +1,8 @@
 
-- 🔭 I’m currently working on https://bigcointalk.org
+Working on https://bigcointalk.org
   
 
-- 🌱 I’m currently learning Python  
+Learning Python  
 
 
 <br/>  
