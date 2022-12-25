@@ -95,6 +95,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+
+[https://bigcointalk.org/viewtopic.php?p=8](Discord Price Bot)
+
 https://bigcointalk.org/
 <!-- BLOG-POST-LIST:END -->  
 
