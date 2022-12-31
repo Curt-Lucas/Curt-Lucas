@@ -4,7 +4,7 @@ Working on https://bigcointalk.org
 
 Learning Python  
 
-
+<sd8>
 <br/>  
 
 
