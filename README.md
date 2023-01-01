@@ -7,7 +7,6 @@ Learning Python
 <sd8>
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
