@@ -2,8 +2,7 @@
 Working on https://bigcointalk.org
   
 
-Learning Python  
-
+Learning Python
 <sd8>
 <br/>  
 
