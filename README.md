@@ -9,7 +9,7 @@ https://m.vfun88.com
 
 https://m.8btc.com
 
-https:://8font.com
+https://8font.com
 
 https://veriz0wn.com
 
