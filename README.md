@@ -1,15 +1,15 @@
 
-https://88token.io/
+https://88token.io
 
-https://bigcointalk.org/
+https://bigcointalk.org
 
-https://cryptodevjobs.substack.com/
+https://cryptodevjobs.substack.com
 
-https://m.vfun88.com/
+https://m.vfun88.com
 
-https://veriz0wn.com/
+https://veriz0wn.com
 
-https://substack.com/
+https://substack.com
 
 followtrain, coming soon
 
