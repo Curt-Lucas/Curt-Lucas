@@ -7,6 +7,8 @@ https://cryptodevjobs.substack.com
 
 https://m.vfun88.com
 
+https://m.8btc.com
+
 https://veriz0wn.com
 
 https://substack.com
