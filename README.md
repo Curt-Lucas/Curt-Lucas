@@ -1,6 +1,8 @@
 
 https://88token.io
 
+https://discuss.88.io
+
 https://bigcointalk.org
 
 https://cryptodevjobs.substack.com
