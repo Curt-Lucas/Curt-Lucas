@@ -9,6 +9,8 @@ https://m.vfun88.com
 
 https://m.8btc.com
 
+https:://8font.com
+
 https://veriz0wn.com
 
 https://substack.com
@@ -21,11 +23,13 @@ followtrain, coming soon
 
 88elon, coming soon
 
+DDex, coming soon
+
 Learning Python
 <sd8>
 <br/>  
 
-## My Skill Set  
+## Some Skills  
 <table><tr><td valign="top" width="33%">
 
 
