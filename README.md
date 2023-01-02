@@ -1,6 +1,23 @@
 
-Working on https://bigcointalk.org
-  
+https://88token.io/
+
+https://bigcointalk.org/
+
+https://cryptodevjobs.substack.com/
+
+https://m.vfun88.com/
+
+https://veriz0wn.com/
+
+https://substack.com/
+
+followtrain, coming soon
+
+88miners, coming soon
+
+88int, coming soon
+
+88elon, coming soon
 
 Learning Python
 <sd8>
@@ -97,6 +114,8 @@ Learning Python
 [Discord Price Bot](https://bigcointalk.org/viewtopic.php?p=8)
 
 [btc-pki-bruteforce (Wallet Bruteforcer)](https://bigcointalk.org/viewtopic.php?t=7)
+
+[1st edition of the CryptoDevJobs newsletter](https://cryptodevjobs.substack.com)
 
 [SIGINT](https://veriz0wn.com/sigint)
 <!-- BLOG-POST-LIST:END -->  
