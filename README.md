@@ -18,6 +18,10 @@ https://veriz0wn.com
 
 https://substack.com
 
+HowIsElonDoing.com, coming soon
+
+ElonRust.com, coming soon
+
 followtrain, coming soon
 
 88miners, coming soon
@@ -30,6 +34,7 @@ DDex, coming soon
 
 Learning Python
 <sd8>
+<dload|update|patch|reboot>
 <br/>  
 
 ## Some Skills  
