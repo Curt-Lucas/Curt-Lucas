@@ -34,7 +34,7 @@ DDex, coming soon
 
 Learning Python
 <sd8>
-<dload|update|patch|reboot>
+<dload><update><patch><reboot><startspread>
 <br/>  
 
 ## Some Skills  
